@@ -1,0 +1,57 @@
+body {
+  margin: 0;
+  color: white;
+}
+
+.content {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: row;
+}
+
+.leftBackground {
+  background-image: url("../Images/Ayabe.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: auto;
+  width: 40vw;
+}
+
+.rightContainer {
+  background-color: black;
+  background-size: auto;
+  width: 60vw;
+}
+
+.uselessText {
+  text-align: center;
+  height: 30vh;
+}
+
+.signUpForm {
+  background-color: grey;
+  display: flex;
+  flex-flow: row wrap;
+  padding: 20px;
+  gap: 20px;
+  box-shadow: 0px 5px 5px #888;
+}
+
+.formHeader {
+  width: 100%;
+}
+
+.inputContainer {
+  display: flex;
+  flex-flow: column wrap;
+}
+
+input[type="text"] {
+  box-sizing: border-box;
+  border-radius: 5px;
+  padding: 10px;
+  border: 0;
+  box-shadow: 0 0 15px 4px rgba(0, 0, 0, 0.06);
+  margin: 5px;
+}
