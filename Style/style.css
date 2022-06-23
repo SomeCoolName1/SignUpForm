@@ -18,7 +18,7 @@ body {
 }
 
 .leftBackground {
-  background-image: url("../Images/Leaf.jpg");
+  background-image: url("Images/Leaf.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -182,7 +182,6 @@ button[type="submit"]:active {
     margin: 0;
     box-sizing: border-box;
     min-height: 100vh;
-    max-width: 100vw;
   }
 
   .content {
@@ -233,7 +232,6 @@ button[type="submit"]:active {
   .rightContainer {
     width: 100vw;
     height: 100vh;
-    padding-bottom: 20px;
   }
 
   .upperText {
