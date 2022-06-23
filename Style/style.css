@@ -219,10 +219,10 @@ button[type="submit"]:active {
   }
 
   .credit {
-    position: fixed;
+    position: absolute;
     bottom: 0;
-    text-align: center;
     width: 100%;
+    text-align: center;
   }
 
   .logo {
