@@ -1,0 +1,22 @@
+{
+  "name": "signupform",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SomeCoolName1/SignUpForm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SomeCoolName1/SignUpForm/issues"
+  },
+  "homepage": "https://github.com/SomeCoolName1/SignUpForm#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}

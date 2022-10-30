@@ -5,6 +5,7 @@
 
 body {
   margin: 0;
+  background: black;
   color: rgb(177, 177, 177);
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
@@ -18,7 +19,7 @@ body {
 }
 
 .leftBackground {
-  background-image: url("Images/Leaf.jpg");
+  background-image: url("../Images/Leaf.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
